@@ -7,7 +7,7 @@ package Boletin17_1;
 
 /**
  *
- * @author Doctor Mantequilla
+ * @author slorenzorodriguez
  */
 public interface IPodeNadar {
     

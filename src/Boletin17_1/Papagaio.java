@@ -7,11 +7,12 @@ package Boletin17_1;
 
 /**
  *
- * @author Doctor Mantequilla
+ * @author slorenzorodriguez
  */
 
     public class Papagaio implements IPodeCamiñar {
 
+    @Override
     public void caminar() {
         System.out.println("el pagaro solo puede caminar");
     }

@@ -7,7 +7,7 @@ package Boletin17_1;
 
 /**
  *
- * @author Doctor Mantequilla
+ * @author slorenzorodriguez
  */
 
     public class Gato extends Mamifero implements IPodeNadar, IPodeCamiñar {
@@ -15,6 +15,7 @@ package Boletin17_1;
     /**
      *
      */
+    @Override
     public void caminar() {
         System.out.println("el gato puede moverse");
     }

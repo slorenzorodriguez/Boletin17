@@ -7,7 +7,7 @@ package Boletin17_1;
 
 /**
  *
- * @author Doctor Mantequilla
+ * @author slorenzorodriguez
  */
 public class Boletin17_1 {
        public static void main(String[] args) {

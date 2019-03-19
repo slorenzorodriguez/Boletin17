@@ -9,7 +9,7 @@ import Boletin17_1.Mamifero;
 import Boletin17_1.Papagaio;
 /**
  *
- * @author Doctor Mantequilla
+ * @author slorenzorodriguez
  */
 public class Boletin17_2 {
 

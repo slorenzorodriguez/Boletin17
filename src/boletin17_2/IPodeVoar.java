@@ -7,7 +7,7 @@ package boletin17_2;
 
 /**
  *
- * @author Doctor Mantequilla
+ * @author slorenzorodriguez
  */
 public interface IPodeVoar {
      public void voar();

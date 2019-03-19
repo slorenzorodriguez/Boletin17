@@ -7,11 +7,12 @@ package Boletin17_1;
 
 /**
  *
- * @author Doctor Mantequilla
+ * @author slorenzorodriguez
  */
 
     public class Mamifero implements IPodeCamiñar {
 
+    @Override
     public void caminar() {
         System.out.println("el animal que puede moverse");
     }
